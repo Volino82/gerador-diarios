@@ -63,7 +63,7 @@ A aba secundária gerada injeta fórmulas lógicas complexas que calculam o apro
 ## Estrutura do Repositório
 
 ```text
-confirmados-proxima-rodada/
+gerador-diarios/
 ├── .gitignore               # Ignora arquivos temporários ocultos do Excel (~$*)
 ├── LICENSE                  # Licença MIT aberta de uso livre
 ├── README.md                # Esta documentação completa e técnica
